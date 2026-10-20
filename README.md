@@ -31,3 +31,6 @@ Some transactions require further investigation, and the exact duplicate check h
 
 ## Tools and Skills Demonstrated
 Google Sheets, data cleaning, exploratory data analysis, pivot tables, data visualization, and communicating analytical findings.
+## Dashboard
+
+![Online Retail Dashboard](online-retail-dashboard.png)
