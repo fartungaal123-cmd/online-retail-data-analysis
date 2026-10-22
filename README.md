@@ -37,6 +37,6 @@ Product analysis includes postage-related entries, such as `DOTCOM POSTAGE`. Cus
 - Dashboard creation
 - Communicating analytical findings
 
-Dashboard
+  ## Dashboard
 
-![Online Retail Data Analysis – Portfolio Project](Online Retail Data Analysis – Portfolio Project.png)
+![Online Retail Dashboard](online-retail-dashboard.png)
