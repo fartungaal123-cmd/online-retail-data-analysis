@@ -36,3 +36,5 @@ Product analysis includes postage-related entries, such as `DOTCOM POSTAGE`. Cus
 - Data visualisation
 - Dashboard creation
 - Communicating analytical findings
+
+https://docs.google.com/spreadsheets/d/1SBI5vjTvtg2sOCXtDmF1IjR9M_hhtHVG-pRh5x0PEjE/edit?usp=sharing
