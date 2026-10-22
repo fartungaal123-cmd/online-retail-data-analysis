@@ -39,4 +39,4 @@ Product analysis includes postage-related entries, such as `DOTCOM POSTAGE`. Cus
 
   ## Dashboard
 
-![Online Retail Dashboard](online-retail-dashboard.png)
+![online-retail-dashboard.png.png](online-retail-dashboard.png.png)
